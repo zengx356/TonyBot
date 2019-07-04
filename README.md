@@ -4,7 +4,7 @@ A chatbot that uses machine learning to learn how to have a conversation with so
 
 Some of the technologies that I have used to create this is Python, Tensorflow, and Anaconda. 
 
-#TODO
+# TODO
 * Gather data preferably in a CSV file as opposed to JSON for ease of access and use in storing conversation data
 * Implement uwu bot
 * Make bot more intelligent through more scientific data
