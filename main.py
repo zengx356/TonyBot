@@ -9,6 +9,11 @@ import random
 import json
 import pickle
 
+try:
+    nltk.download('punkt')
+except:
+    pass
+
 with open("intents.json") as file:
     data = json.load(file)
 
