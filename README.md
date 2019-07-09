@@ -1,11 +1,9 @@
-# Uwu-Chatbot
+# TonyBot
 
-A chatbot that uses machine learning to learn how to have a conversation with someone. As it evolves, it will take sentences and replace some parts with the very common phase: 'uwu'. This will eventually become an uwu chatbot.
+A simple chatbot that uses hardcoded data to spout information about myself. This will be the basis for a discord server bot. The bot will read in a JSON file and process the data from it. From there we will split the data into a training set and train the model so that it will be able to chat back to the user.
 
-Some of the technologies that I have used to create this is Python, Tensorflow, and Anaconda. 
+Some of the technologies that I have used to create this is Python, Tensorflow, Anaconda, Discord. 
 
 # TODO
-* Gather data preferably in a CSV file as opposed to JSON for ease of access and use in storing conversation data
-* Implement uwu bot
-* Make bot more intelligent through more scientific data
+* Give more data to bot to use
 * Implement this bot as a discord bot
